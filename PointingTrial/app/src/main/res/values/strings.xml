@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Pointing Trial</string>
+    <string name="start_game">Start Pointing!</string>
+    <string name="options_tab">Options</string>
+    <string name="add_new">Add New</string>
+    <string name="existing_collections">Collections</string>
+    <string name="title_activity_show_question">ShowQuestionActivity</string>
+    <string name="testQ">start screen for questions</string>
+    <string name="game_next_question">Next Question!</string>
+    <string name="game_back_button">Back</string>
+    <string name="ca_Title">Please select what kind of Questions</string>
+    <string name="ca_nice">Nice</string>
+    <string name="ca_mean">Mean</string>
+    <string name="ca_shitstir">Shit Stirring</string>
+    <string name="cd_ready">Ready?</string>
+    <string name="cd_point">POINT!</string>
+    <string name="ca_save">Save</string>
+    <string-array name="nice_questions">
+        <item>Who is the most handsome?</item>
+        <item>Most likely person to end up as Prime Minister?</item>
+        <item>Person who is the nicest?</item>
+    </string-array>
+    <string-array name="mean_questions">
+        <item>Who is the most mean?</item>
+        <item>Most likely person to end up in Jail?</item>
+        <item>Who is the ugliest person here?</item>
+    </string-array>
+    <string-array name="shitstir_questions">
+        <item>Who is your best friend here?</item>
+        <item>Person you are least happy to be playing with you right now?</item>
+        <item>Most likely person to be talked about behind their back?</item>
+    </string-array>
+    <string name="title_activity_collection_page">CollectionPage</string>
+</resources>
